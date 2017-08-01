@@ -1,4 +1,4 @@
-# angular2-seed
+# angular2-seed-with-firebase-authentication
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.1.
 
